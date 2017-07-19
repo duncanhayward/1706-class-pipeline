@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+body {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1BpEG0x1Q3wsKTwCzN300z3uxzUYdLtM0jOCJwII8IeRot8jtg");
+	backgroud-repeat: repeat-y;
+	color:red;
+}
+
+span {
+	color:blue;
+}
+
+h3 {
+	color:blue;
+}
